@@ -2,6 +2,10 @@
 
 This project focuses on detecting pneumonia from chest X-ray images using deep learning models. The goal is to assist doctors in early diagnosis and improve decision-making in medical settings.
 
+## 💻 Interface
+
+![Interface](interface.png)
+
 ##  Project Overview
 Pneumonia is a life-threatening disease that can be difficult to diagnose due to overlapping symptoms with other respiratory conditions. This project uses deep learning to classify chest X-ray images into:
 - Normal
